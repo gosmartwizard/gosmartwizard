@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<--
-#Main Area of Interests :
 
-  #Go
-  #Distributed systems
-  #Microservices
-  #Engineering Stuff
- -->
+###Main Area of Interests :
+
+  - Go
+  - Distributed systems
+  - Microservices
+  - Engineering Stuff
+ 
 <!--
 **gosmartwizard/gosmartwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
