@@ -5,7 +5,6 @@
 
   - Go
   - Distributed systems
-  - Microservices
   - Engineering Stuff
  
 <!--
