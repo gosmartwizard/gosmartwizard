@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -7,6 +8,8 @@
   - Distributed Systems
   - Engineering Stuff
  
+![GopherGuides Certification](https://user-images.githubusercontent.com/85324606/230479354-222dff82-7ed0-42e8-b14b-b4b31629b032.png)
+
 <!--
 **gosmartwizard/gosmartwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
