@@ -9,6 +9,11 @@ I’m a software engineer specializing in scalability, reliability, performance 
 
   - Go
   - Distributed Systems
+  - Databases Internals
+  - Operating Systems Internals
+  - Networking Internals
+  - Data Structures
+  - Algorithms
   - Engineering Stuff
 
 Reading now : [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
