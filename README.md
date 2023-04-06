@@ -10,8 +10,10 @@
   - Go
   - Distributed Systems
   - Engineering Stuff
+  
  ### Reading now :
- [100 Go Misakes] https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them
+ [100 Go Misakes] --->  https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them
+ 
 ![GopherGuides Certification](https://user-images.githubusercontent.com/85324606/230479354-222dff82-7ed0-42e8-b14b-b4b31629b032.png)
 
 <!--
