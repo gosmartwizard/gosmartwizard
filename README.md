@@ -4,7 +4,7 @@
 # Area of Interests :
 
   - Go
-  - Distributed systems
+  - Distributed Systems
   - Engineering Stuff
  
 <!--
