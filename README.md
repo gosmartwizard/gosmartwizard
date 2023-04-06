@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Main Area of Interests :
+# Area of Interests :
 
   - Go
   - Distributed systems
