@@ -4,7 +4,7 @@
 # Naveen R K Reddy
 
 
-### **I’m a software engineer specializing in scalability, reliability, performance and optimization topics. I have experience in designing and implementing scalable and maintainable systems. **
+### I’m a software engineer specializing in scalability, reliability, performance and optimization topics. I have experience in designing and implementing scalable and ### maintainable systems.
 
 ### Area of Interests :
 
