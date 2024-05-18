@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-# Naveen R K Reddy
+# Naveen Reddy Kunareddy
 
 I’m a software engineer specializing in scalability, reliability, performance and optimization. I have an experience in designing and implementing scalable and maintainable systems.
 
